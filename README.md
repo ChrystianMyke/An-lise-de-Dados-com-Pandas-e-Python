@@ -1,5 +1,5 @@
 # Curso Análise de Dados com Python e Pandas
- Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
+ Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da DIO.
  
  **Assuntos abordados neste curso**:
  1. Python Básico
